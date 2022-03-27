@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 64082b79-35f2-3000-2707-edcc677f062d
 resourcetype: Document
 title: '2nd Research Paper Topics '
 uid: 6ff5a4cd-e7a9-0780-b476-f0a9d00b5d78

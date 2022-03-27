@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d9d424d3-7bca-a195-6954-21acbf6b45da
 resourcetype: Document
 title: Midterm study guide
 uid: de9d7545-0fd3-ea0e-9585-fef2e8bf9a30
