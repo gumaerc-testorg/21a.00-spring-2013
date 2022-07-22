@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the writing assignments for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 64082b79-35f2-3000-2707-edcc677f062d
 ---
@@ -147,13 +152,13 @@ Research Paper Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[First Research Paper Topics (PDF)]({{< baseurl >}}/resources/mit21a_00s13_fstprtopic)
+{{% resource_link 40e2ae62-1bd5-7a0a-6ec5-fdbaddccf954 "First Research Paper Topics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Second Research Paper Topics (PDF)]({{< baseurl >}}/resources/mit21a_00s13_sndprtopic)
+{{% resource_link 6ff5a4cd-e7a9-0780-b476-f0a9d00b5d78 "Second Research Paper Topics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
