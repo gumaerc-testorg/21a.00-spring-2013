@@ -5,6 +5,7 @@ file: /courses/21a-00-introduction-to-anthropology-spring-2013/de9d75450fd3ea0e9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Midterm study guide
 uid: de9d7545-0fd3-ea0e-9585-fef2e8bf9a30
 ---
 Study guide for a midterm exam on anthropology.
-
