@@ -2,6 +2,7 @@
 content_type: resource
 description: Study guide for a midterm exam on anthropology.
 file: /courses/21a-00-introduction-to-anthropology-spring-2013/de9d75450fd3ea0e9585fef2e8bf9a30_MIT21A_00S13_Mdtrmstudyg.pdf
+file_size: 85421
 file_type: application/pdf
 learning_resource_types:
 - Exams
