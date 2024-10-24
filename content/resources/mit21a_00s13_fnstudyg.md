@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide for a final exam on anthropology.
-file: /courses/21a-00-introduction-to-anthropology-spring-2013/ab7b38d98aa8fcdc1fa981de2804fc52_MIT21A_00S13_Fnstudyg.pdf
+file: /ol-ocw-studio-app/courses/21a-00-introduction-to-anthropology-spring-2013/ab7b38d98aa8fcdc1fa981de2804fc52_MIT21A_00S13_Fnstudyg.pdf
 file_size: 96577
 file_type: application/pdf
 learning_resource_types:
