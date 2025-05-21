@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Potential topics for a research paper on anthropology.
-file: /ol-ocw-studio-app/courses/21a-00-introduction-to-anthropology-spring-2013/40e2ae621bd57a0a6ec5fdbaddccf954_MIT21A_00S13_fstprtopic.pdf
+file: /courses/21a-00-introduction-to-anthropology-spring-2013/40e2ae621bd57a0a6ec5fdbaddccf954_MIT21A_00S13_fstprtopic.pdf
 file_size: 96557
 file_type: application/pdf
 learning_resource_types:
