@@ -50,7 +50,7 @@ Lec 2
 What do anthropologists do?
 {{< tdclose >}}
 {{< tdopen >}}
-Ahearn, Laura M. Chapters 1–2 in _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with [Google Books](http://books.google.com/books?id=VsdAA8fmL88C&printsec=frontcover)\]
+Ahearn, Laura M. Chapters 1–2 in _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with {{% resource_link "7715a281-3770-4267-bb7e-3ae34d0aa409" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +68,7 @@ Lec 3
 What is a family?
 {{< tdclose >}}
 {{< tdopen >}}
-Ahearn, Laura M. Chapters 3–4 in _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with [Google Books](http://books.google.com/books?id=VsdAA8fmL88C&printsec=frontcover)\]
+Ahearn, Laura M. Chapters 3–4 in _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with {{% resource_link "7715a281-3770-4267-bb7e-3ae34d0aa409" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ Lec 4
 Is "love" a universal?
 {{< tdclose >}}
 {{< tdopen >}}
-Ahearn, Laura M. Chapter 6 in _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with [Google Books](http://books.google.com/books?id=VsdAA8fmL88C&printsec=frontcover)\]
+Ahearn, Laura M. Chapter 6 in _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with {{% resource_link "7715a281-3770-4267-bb7e-3ae34d0aa409" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Lec 5
 How does society manage human crises?
 {{< tdclose >}}
 {{< tdopen >}}
-Conklin, Beth A. "[Thus are our Bodies, Thus was our Custom': Mortuary Cannibalism in an Amazonian Society](http://dx.doi.org/10.1525/ae.1995.22.1.02a00040)." _American Ethnologist_ 22, no. 1 (1995): 75–101.
+Conklin, Beth A. "{{% resource_link "6e55d2fe-6371-4edc-b972-ea8a47ab71cc" "Thus are our Bodies, Thus was our Custom': Mortuary Cannibalism in an Amazonian Society" %}}." _American Ethnologist_ 22, no. 1 (1995): 75–101.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Lec 6
 Is gender biologically determined?
 {{< tdclose >}}
 {{< tdopen >}}
-Kulick, Don. "[The Gender of Brazilian Transgendered Prostitutes](http://dx.doi.org/10.1525/aa.1997.99.3.574)." _American Anthropologist_ 99, no. 3 (1997): 574–85.
+Kulick, Don. "{{% resource_link "0f7b20f5-2a2a-4c4b-903e-fd92d4e5bab6" "The Gender of Brazilian Transgendered Prostitutes" %}}." _American Anthropologist_ 99, no. 3 (1997): 574–85.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +176,7 @@ Lec 10
 Should culture be preserved?
 {{< tdclose >}}
 {{< tdopen >}}
-Marchand, Trevor H. J. "[Negotiating License and Limits: Expertise and Innovation in Djenne's Building Trade](http://dx.doi.org/10.3366/E0001972008000612)." _Africa_ 79, no. 1 (2009): 71–91.
+Marchand, Trevor H. J. "{{% resource_link "35df3105-1b6a-4d70-bd0a-aa63bf39733c" "Negotiating License and Limits: Expertise and Innovation in Djenne's Building Trade" %}}." _Africa_ 79, no. 1 (2009): 71–91.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +190,7 @@ Film: "The Future of Mud"
 {{< tdopen >}}
 
 
-[_Future of Mud: A Tale of Houses and Lives in Djenné_](http://www.icarusfilms.com/new2007/mud.html). Directed by Vogel, Susan. Produced by Marchand, Trevor HJ, and Samuel Sidibe. Prince Street Pictures, Distributed by First Run Icarus Films. Color, 58 min. 2007. \[16mm/DVD\]
+{{% resource_link "b0006e96-5860-444f-94dd-cf97058d8fec" "_Future of Mud: A Tale of Houses and Lives in Djenné_" %}}. Directed by Vogel, Susan. Produced by Marchand, Trevor HJ, and Samuel Sidibe. Prince Street Pictures, Distributed by First Run Icarus Films. Color, 58 min. 2007. \[16mm/DVD\]
 
 
 {{< tdclose >}}
@@ -284,7 +284,7 @@ Film: "Nothing Rhymes with Ngapartji"
 {{< tdopen >}}
 
 
-[_Nothing Rhymes with Ngapartji_](http://www.nothingrhymeswithngapartji.com/). Big HART, (2010): DVD, 56 min.
+{{% resource_link "9c6cd89b-2d13-4ef3-934e-d21a1c837bb0" "_Nothing Rhymes with Ngapartji_" %}}. Big HART, (2010): DVD, 56 min.
 
 Gusterson, Hugh. "Nuclear Weapons Testing: Scientific Experiment as Political Ritual." In _Naked Science: Anthropological Inquiry into Boundaries, Power and Knowledge_. Edited by Laura Nader. Routledge, 1996, pp. 131–47. ISBN: 9780415914659.
 
@@ -306,7 +306,7 @@ Lec 18
 What is art?
 {{< tdclose >}}
 {{< tdopen >}}
-Myers, Fred R. "[Truth, Beauty, and Pintupi Painting](http://dx.doi.org/10.1080/08949468.1989.9966508)." _Visual Anthropology_ 2, no. 2 (1989): 163–95.
+Myers, Fred R. "{{% resource_link "98a9e54b-e7e9-4671-896a-941f3c184696" "Truth, Beauty, and Pintupi Painting" %}}." _Visual Anthropology_ 2, no. 2 (1989): 163–95.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,7 +354,7 @@ Lec 21
 Is magic irrational?
 {{< tdclose >}}
 {{< tdopen >}}
-Luhrmann, Tanya M. "[The Magic of Secrecy](http://dx.doi.org/10.1525/eth.1989.17.2.02a00010)." _Ethos_ 17, no. 2 (1989): 131–65.
+Luhrmann, Tanya M. "{{% resource_link "2543ff94-4b7a-4c81-b4f0-06d7d76eaaaf" "The Magic of Secrecy" %}}." _Ethos_ 17, no. 2 (1989): 131–65.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,7 +366,7 @@ Lec 22
 Is rationality magical?
 {{< tdclose >}}
 {{< tdopen >}}
-Jones, Graham M. "[Magic with a Message: The Poetics of Christian Conjuring](http://dx.doi.org/10.1111/j.1548-1360.2012.01140.x)." _Cultural Anthropology_ 27, no. 2 (2012): 193–214.
+Jones, Graham M. "{{% resource_link "356b3c5c-989a-4d5c-a55a-77f092c62b93" "Magic with a Message: The Poetics of Christian Conjuring" %}}." _Cultural Anthropology_ 27, no. 2 (2012): 193–214.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -396,7 +396,7 @@ Lec 24
 Film: "Ilé Aiyé: The House of Life"
 {{< tdclose >}}
 {{< tdopen >}}
-[_Îlé Aiyé (The House of Life)_](http://www.amazon.com/Ile-Aiye-The-House-Life/dp/B0002MFG3W). Directed by Byrne, David. Produced by Miyake, Kiki, and Mel Lawrence. Little Magic Films. Color, 51 min. 1989. \[16mm/DVD\]
+{{% resource_link "42f4e86a-75a5-4c0b-af69-7816b697a66d" "_Îlé Aiyé (The House of Life)_" %}}. Directed by Byrne, David. Produced by Miyake, Kiki, and Mel Lawrence. Little Magic Films. Color, 51 min. 1989. \[16mm/DVD\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -414,7 +414,7 @@ Lec 25
 What are the limits of intercultural communication?
 {{< tdclose >}}
 {{< tdopen >}}
-Bailey, Benjamin. "[Communication of Respect in Interethnic Service Encounters](http://dx.doi.org/10.1017/S0047404500019497)." _Language in Society_ 26, no. 3 (1997): 327–56.
+Bailey, Benjamin. "{{% resource_link "a2e7013f-7c4c-40f4-a5b2-8461f0418bfe" "Communication of Respect in Interethnic Service Encounters" %}}." _Language in Society_ 26, no. 3 (1997): 327–56.
 {{< tdclose >}}
 
 {{< trclose >}}
