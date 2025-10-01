@@ -96,11 +96,11 @@ Final exam
 Required Texts
 --------------
 
-Ahearn, Laura M. _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with [Google Books](http://books.google.com/books?id=VsdAA8fmL88C&printsec=frontcover)\]
+Ahearn, Laura M. _Invitations to Love: Literacy, Love Letters, and Social Change in Nepal_. University of Michigan Press, 2001. ISBN: 9780472067848. \[Preview with {{% resource_link "7715a281-3770-4267-bb7e-3ae34d0aa409" "Google Books" %}}\]
 
 Downey, Greg. _Learning Capoeira: Lessons in Cunning from an Afro-Brazilian Art_. Oxford University Press, 2005. ISBN: 9780195176971.
 
 Reference Material
 ------------------
 
-[Oxford Reference: Dictionary of Social Science](http://www.oxfordreference.com/view/10.1093/acref/9780195123715.001.0001/acref-9780195123715)
+{{% resource_link "d47e5028-b498-43d5-a569-c5d0ebcc1bea" "Oxford Reference: Dictionary of Social Science" %}}
